@@ -1,0 +1,26 @@
+body {
+    background-color: hotpink
+}
+
+.red {
+    color: red; 
+}
+
+.blue {
+    color:blue; 
+}
+
+a {
+    background: black;
+    text-decoration: none;
+    padding: 16px 32px;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+}
+
+a:active {
+    position: relative;
+    top:1px
+}
